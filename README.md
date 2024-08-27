@@ -16,7 +16,7 @@ This repository includes 4 shell scripts and a python file. Each file is used fo
   This file is used to monitor server metrics by using spark mod. So you will need to have the mod installed for it to work charmingly alright.
 ### startup.sh
   This file is just your ordinary startup script :D.
-### read_player_data.sh
+### read_player_data.py
   This file is used for checking your server player's data. The script will read the old data and the new data of the player. And convert it from bin to readable text. So you can purposely operates player data's by forwarding or backwarding the data using the saved backups.
 
 ## Contributors
